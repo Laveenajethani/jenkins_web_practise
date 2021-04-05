@@ -1,7 +1,7 @@
 <pre>
 <?php
   
-print `/usr/sbin/ifconfig`;
+print "hello this is test";
 
 ?>
 </pre>
